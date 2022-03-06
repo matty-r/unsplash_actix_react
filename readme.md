@@ -1,3 +1,11 @@
+# About
+Simple Actix (backend) and React (frontend) "proxy" for Unsplash, rather than the frontend directly querying Unsplash, the query will go to the backend, and it will return the results to the frontend. This was put together to supplement my learning of the "Modern React with Redux" Udemy course, when building the Pics app. 
+
+# Prerequisites
+
+*   rust (https://rustup.rs/)
+*   npm
+
 # Setup
 Go into frontend directory, install the required npm stuffs
 
